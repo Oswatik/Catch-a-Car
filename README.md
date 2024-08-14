@@ -9,5 +9,8 @@ EasyOCR is an open-source library for image to text conversion.
   EasyOCR  
   OpenCV  
 
+![Uploading anpr (1).jpg…]()
+
+
 ## Usecase:-
 Built as a solution to real-time traffic problems. Theft, speeding detection.
